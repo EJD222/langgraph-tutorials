@@ -74,7 +74,7 @@ while (true) {
     };
 
     while (true) {
-       console.log(`\n[Current Session: ${threadId}]`);
+        console.log(`\n[Current Session: ${threadId}]`);
         const input = await getUserInput("Choose a node path (Enter 'B', 'C', or 'Q' to quit this session): ");
 
         if (input.toUpperCase() === "Q") {
