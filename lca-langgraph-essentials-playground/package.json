@@ -14,10 +14,11 @@
     "@langchain/core": "^1.2.1",
     "@langchain/google-genai": "^2.2.0",
     "@langchain/langgraph": "^1.4.7",
-    "arktype": "^2.2.1"
+    "arktype": "^2.2.1",
+    "dotenv": "^17.4.2"
   },
   "devDependencies": {
-    "@types/node": "^26.0.1",
+    "@types/node": "^26.1.1",
     "typescript": "^6.0.3"
   }
 }
